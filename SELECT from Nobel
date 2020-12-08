@@ -13,9 +13,9 @@ SELECT winner
  
 -- 3. Albert Einstein: Show the year and subject that won 'Albert Einstein' his prize.
  
- SELECT yr, subject
-FROM nobel
-WHERE winner = 'Albert Einstein';
+SELECT yr, subject
+  FROM nobel
+    WHERE winner = 'Albert Einstein';
 
 -- 4. Recent Peace Prizes
 --    Give the name of the 'Peace' winners since the year 2000, including 2000.
