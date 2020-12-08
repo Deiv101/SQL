@@ -13,4 +13,6 @@ SELECT yr, subject, winner
 FROM nobel
 WHERE winner = 'Albert Einstein';
 
- 
+-- 4. Recent Peace Prizes
+--    Give the name of the 'Peace' winners since the year 2000, including 2000.
+
