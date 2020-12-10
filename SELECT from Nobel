@@ -72,4 +72,4 @@ SELECT *
 
 SELECT *
  FROM nobel 
-  WHERE winner LIKE 'E%Neill%';
+  WHERE winner LIKE 'E%Neill%'; 
