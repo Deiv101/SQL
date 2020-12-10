@@ -60,3 +60,4 @@ SELECT *
    AND subject != 'Chemistry' AND subject  != 'Medicine';
 
 
+
