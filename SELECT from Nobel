@@ -74,4 +74,4 @@ SELECT *
  FROM nobel 
   WHERE winner LIKE 'E%Neill%'; 
 
--- 13.
+-- 13. 
