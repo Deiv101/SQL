@@ -6,7 +6,7 @@
       <body>
         <h1>My SQL codes repository</h1>
         <div id="introduction">
-          <h2>Some Of The Important SQL Queries<h2>
+          <h3>Some Of The Important SQL Queries<h3>
   </div>
  </body>      
 </html>
