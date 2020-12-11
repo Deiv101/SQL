@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>SQL</title>
+    SQL
     <head>
       <body>
         <h1>My SQL codes repository</h1>
