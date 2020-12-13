@@ -75,6 +75,7 @@ SELECT *
   WHERE winner LIKE 'E%Neill%'; 
   
   OR
+-- More fullproof
 
 SELECT *
 FROM nobel 
