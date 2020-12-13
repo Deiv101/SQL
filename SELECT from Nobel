@@ -78,7 +78,7 @@ SELECT *
 -- More fullproof
 
 SELECT *
-FROM nobel 
+ FROM nobel 
 WHERE winner LIKE 'EUGENE O''NEILL';
 
 
