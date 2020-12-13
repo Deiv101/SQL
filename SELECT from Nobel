@@ -73,6 +73,8 @@ SELECT *
 SELECT *
  FROM nobel 
   WHERE winner LIKE 'E%Neill%'; 
+  
+  OR
 
 -- 13. Knights in order
 
