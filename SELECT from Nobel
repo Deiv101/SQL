@@ -79,7 +79,7 @@ SELECT *
 
 SELECT *
  FROM nobel 
-WHERE winner LIKE 'EUGENE O''NEILL';
+   WHERE winner LIKE 'EUGENE O''NEILL';
 
 
 -- 13. Knights in order
