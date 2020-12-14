@@ -107,5 +107,5 @@ SELECT winner, subject
 ################################################################       Subquery   ################################################################################
 
 SELECT name, age
-FROM students
+ FROM students
 WHERE age > (SELECT AVG(age) FROM students);
