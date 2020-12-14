@@ -103,9 +103,10 @@ SELECT winner, subject
      
 
 
+
 ##################################################################################################################################################################
 ################################################################       Subquery   ################################################################################
-select name and age from ''students'', where age is greater than the average of all ages. Use a subquery to calculate the average value of age.
+Select name and age from ''students'', where age is greater than the average of all ages. Use a subquery to calculate the average value of age.
 
 SELECT name, age
  FROM students
