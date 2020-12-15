@@ -11,3 +11,8 @@ SELECT column, another_column, …
       ORDER BY column ASC/DESC
         LIMIT num_limit OFFSET num_offset;
 ##########################################
+
+
+SELECT title FROM movies
+ORDER BY title ASC
+LIMIT 5 OFFSET 5;
