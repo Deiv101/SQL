@@ -11,6 +11,7 @@ SELECT column, another_column, …
       ORDER BY column ASC/DESC
         LIMIT num_limit OFFSET num_offset;
 ##########################################
+Example: 
 
 List the next five Pixar movies sorted alphabetically 
 
