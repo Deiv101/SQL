@@ -12,7 +12,7 @@ SELECT column, another_column, …
         LIMIT num_limit OFFSET num_offset;
 ##########################################
 
-
+List the next five Pixar movies sorted alphabetically 
 SELECT title FROM movies
 ORDER BY title ASC
 LIMIT 5 OFFSET 5;
