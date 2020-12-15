@@ -10,4 +10,4 @@ SELECT column, another_column, …
     WHERE condition(s)
       ORDER BY column ASC/DESC
         LIMIT num_limit OFFSET num_offset;
-###################################
+##########################################
