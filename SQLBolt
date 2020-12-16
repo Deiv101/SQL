@@ -48,3 +48,5 @@ FROM north_american_cities
 WHERE Country='Mexico'
 ORDER BY population DESC
 LIMIT 2;
+
+5.List the third and fourth largest cities (by population) in the United States and their population
