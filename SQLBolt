@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 SELECT Country, population 
   FROM north_american_cities
-WHERE Country = 'Canada';
+    WHERE Country = 'Canada';
 
 2. Order all the cities in the United States by their latitude from north to south
 
