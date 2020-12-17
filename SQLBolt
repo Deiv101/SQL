@@ -31,7 +31,7 @@ SELECT Country, population
 
 SELECT * 
 FROM north_american_cities
-WHERE Country = 'United States'
+   WHERE Country = 'United States'
 ORDER BY latitude DESC;
 
 3. List all the cities west of Chicago, ordered from west to east
