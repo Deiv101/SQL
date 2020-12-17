@@ -30,7 +30,7 @@ SELECT Country, population
 2. Order all the cities in the United States by their latitude from north to south
 
 SELECT * 
-FROM north_american_cities
+  FROM north_american_cities
    WHERE Country = 'United States'
     ORDER BY latitude DESC;
 
