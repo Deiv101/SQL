@@ -44,7 +44,7 @@ SELECT city, longitude
 4. List the two largest cities in Mexico (by population)
 
 SELECT city, population
-FROM north_american_cities
+  FROM north_american_cities
 WHERE Country='Mexico'
 ORDER BY population DESC
 LIMIT 2;
