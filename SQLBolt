@@ -53,7 +53,7 @@ SELECT city, population
 
 SELECT city, population
   FROM north_american_cities
-WHERE Country='United States'
+    WHERE Country='United States'
 ORDER BY population DESC
 LIMIT 2 OFFSET 2;
 
