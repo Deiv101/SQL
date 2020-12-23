@@ -49,7 +49,7 @@ SELECT city, population
       ORDER BY population DESC
         LIMIT 2;
 
-5.List the third and fourth largest cities (by population) in the United States and their population
+#5.List the third and fourth largest cities (by population) in the United States and their population
 
 SELECT city, population
   FROM north_american_cities
