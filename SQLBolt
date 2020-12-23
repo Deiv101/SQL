@@ -41,7 +41,7 @@ SELECT city, longitude
     WHERE longitude < -87.629798
       ORDER BY longitude ASC;
 
-4. List the two largest cities in Mexico (by population)
+#4. List the two largest cities in Mexico (by population)
 
 SELECT city, population
   FROM north_american_cities
