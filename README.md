@@ -13,5 +13,6 @@
  </body>      
 </html>
 
-The SQL ***SHOW*** statement displays information contained in the database and its tables. This helpful tool lets you keep track of your database contents and remind yourself about the structure of your tables.
+The SQL ***SHOW*** statement displays information contained in the database and its tables. 
+> This helpful tool lets you keep track of your database contents and remind yourself about the structure of your tables.
 - For example, the *SHOW DATABASES* command lists the databases managed by the server.
