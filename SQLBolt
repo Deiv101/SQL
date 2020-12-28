@@ -9,7 +9,7 @@ Select query with limited rows
 #  FROM mytable                            #
 #    WHERE condition(s)                    #
 #      ORDER BY column ASC/DESC            #
-#        LIMIT num_limit OFFSET num_offset;
+#        LIMIT num_limit OFFSET num_offset;#
 ##########################################
 Example: 
 
