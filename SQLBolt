@@ -5,7 +5,7 @@ The LIMIT will reduce the number of rows to return, and the optional OFFSET will
 
 Select query with limited rows
 ############################################
-#SELECT column, another_column, …        #
+#SELECT column, another_column, …          #
 #  FROM mytable                          #
 #    WHERE condition(s)                  #
 #      ORDER BY column ASC/DESC          #
