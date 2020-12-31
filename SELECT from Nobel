@@ -35,6 +35,7 @@ SELECT *
   WHERE subject = 'Literature' 
    AND yr BETWEEN 1980 AND 1989;
 
+__________________________________________________________________________________________________________________________________________________________________
 -- 6. Show all details of the presidential winners:
 
       -- Theodore Roosevelt
