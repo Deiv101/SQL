@@ -24,7 +24,6 @@ SELECT winner
  FROM nobel
   WHERE subject = 'Peace'
    AND yr BETWEEN 2000 AND 2020;
-
 __________________________________________________________________________________________________________________________________________________________________
 -- 5. Show all details (yr, subject, winner) of the Literature prize winners for 1980 to 1989 inclusive.
 
