@@ -46,7 +46,8 @@ ________________________________________________________________________________
 SELECT * 
  FROM nobel
   WHERE winner IN ('Theodore Roosevelt', 'Woodrow Wilson', 'Jimmy Carter', 'Barack Obama');
-   
+
+__________________________________________________________________________________________________________________________________________________________________   
 -- 7. Show the winners with first name John
 
 SELECT winner
