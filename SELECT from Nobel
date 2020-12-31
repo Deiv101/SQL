@@ -66,6 +66,7 @@ SELECT *
   WHERE yr = 1980 
    AND subject != 'Chemistry' AND subject  != 'Medicine';
 
+__________________________________________________________________________________________________________________________________________________________________
 
 
 -- 11. Find all details of the prize won by PETER GRÜNBERG
