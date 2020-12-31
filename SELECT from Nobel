@@ -10,7 +10,6 @@ SELECT winner
   FROM nobel
     WHERE yr = 1962
       AND subject = 'Literature';
-
 __________________________________________________________________________________________________________________________________________________________________ 
 -- 3. Albert Einstein: Show the year and subject that won 'Albert Einstein' his prize.
  
