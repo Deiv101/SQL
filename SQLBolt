@@ -60,6 +60,7 @@ SELECT city, population
     WHERE Country='United States'
       ORDER BY population DESC
         LIMIT 2 OFFSET 2;
+_______________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 ## OFFSET Skips a row, in the above instance it skips to whatever is second in the table
