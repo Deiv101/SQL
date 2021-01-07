@@ -80,6 +80,7 @@ Show the name and capital where the name and the capital have the same number of
 SELECT name, capital
 FROM world
 WHERE LENGTH(name) = LENGTH(capital);
+__________________________________________________________________________________________________________________________________________________________________
 
 -- 12. MATCHING NAME & CAPITAL
 --     The capital of Sweden is Stockholm. Both words start with the letter 'S'.
