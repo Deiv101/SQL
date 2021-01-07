@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 SELECT name
   FROM world
-WHERE name LIKE 'United%';
+    WHERE name LIKE 'United%';
 __________________________________________________________________________________________________________________________________________________________________
 
 -- 7. Two ways to be big: A country is big if it has an area of more than 3 million sq km or it has a population of more than 250 million.
