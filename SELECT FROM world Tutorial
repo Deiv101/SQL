@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 SELECT name, ROUND(population/1000000, 2) AS 'Poplation in Millions', ROUND(gdp/1000000000, 2) AS 'GDP in Billions'
   FROM world
-WHERE continent = 'South America';
+    WHERE continent = 'South America';
 __________________________________________________________________________________________________________________________________________________________________
 
 -- 10. Trillion Dollar Economies
