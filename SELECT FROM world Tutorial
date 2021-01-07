@@ -59,6 +59,7 @@ ________________________________________________________________________________
 SELECT name, ROUND(population/1000000, 2) AS 'Poplation in Millions', ROUND(gdp/1000000000, 2) AS 'GDP in Billions'
 FROM world
 WHERE continent = 'South America';
+__________________________________________________________________________________________________________________________________________________________________
 
 -- 10. Trillion Dollar Economies
 --     Show the name and per-capita GDP for those countries with a GDP of at least one trillion (1000000000000; that is 12 zeros). Round this value to the nearest 1000.
