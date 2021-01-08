@@ -63,7 +63,6 @@ SELECT name, ROUND(gdp/population, -3)
   FROM world 
     WHERE gdp >= 1000000000000;
 __________________________________________________________________________________________________________________________________________________________________
-
 -- 11. Name and capital have the same length
 --     Greece has capital Athens.
 
