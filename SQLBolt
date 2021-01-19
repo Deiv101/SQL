@@ -6,7 +6,7 @@ Another clause which is commonly used with the ORDER BY clause are the LIMIT and
 The LIMIT will reduce the number of rows to return, and the optional OFFSET will specify where to begin counting the number rows from.
 
 Select query with limited rows
-############################################
+############################################ 
 #SELECT column, another_column, …          #
 #  FROM mytable                            #
 #    WHERE condition(s)                    #
