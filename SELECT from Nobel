@@ -8,7 +8,7 @@ ________________________________________________________________________________
 --    Show who won the 1962 prize for Literature.
 SELECT winner
   FROM nobel
-    WHERE yr = 1962
+    WHERE yr = 1962 
       AND subject = 'Literature';
 __________________________________________________________________________________________________________________________________________________________________ 
 -- 3. Albert Einstein: Show the year and subject that won 'Albert Einstein' his prize.
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 SELECT *
  FROM nobel
   WHERE subject = 'Literature' 
-   AND yr BETWEEN 1980 AND 1989;
+   AND yr BETWEEN 1980 AND 1989; 
 __________________________________________________________________________________________________________________________________________________________________
 -- 6. Show all details of the presidential winners:
 
