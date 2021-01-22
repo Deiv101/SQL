@@ -1,4 +1,4 @@
--- 1. Get info for 1950 
+-- 1. Get info for 1950  
 
 SELECT yr, subject, winner
   FROM nobel
