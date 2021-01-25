@@ -12,7 +12,7 @@ Select query with limited rows
 #    WHERE condition(s)                    #   
 #      ORDER BY column ASC/DESC            #
 #        LIMIT num_limit OFFSET num_offset;# 
-############################################
+############################################ 
 Example: 
 
 List the next five Pixar movies sorted alphabetically 
