@@ -5,7 +5,7 @@ SELECT yr, subject, winner
    WHERE yr = 1950;       
 __________________________________________________________________________________________________________________________________________________________________ 
 -- 2. 1962 Literature
---    Show who won the 1962 prize for Literature.
+--    Show who won the 1962 prize for Literature. 
 SELECT winner
   FROM nobel
     WHERE yr = 1962 
