@@ -5,7 +5,7 @@ SELECT matchid, player
   WHERE teamid LIKE '%GER' 
    
 Correct answer 
-  
+   
 matchid	player 
 ----------------------
 1008	   Mario Gómez
