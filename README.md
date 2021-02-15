@@ -5,7 +5,7 @@
     <head>
       <body>
         <h1>My SQL codes repository</h1> 
-        <div id="introduction">
+        <div id="introduction"> 
           <h3>Some Of The Important SQL Queries<h3>  
             <ol>
             <h3>SHOW Databases</h3><br /><br 
