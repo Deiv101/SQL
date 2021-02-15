@@ -2,7 +2,7 @@
 <html>
   <head>
     SQL
-    <head>
+    <head> 
       <body>
         <h1>My SQL codes repository</h1>  
         <div id="introduction">  
