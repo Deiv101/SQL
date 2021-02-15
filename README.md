@@ -8,7 +8,7 @@
         <div id="introduction">  
           <h3>Some Of The Important SQL Queries<h3>   
             <ol>
-            <h3>SHOW Databases</h3><br /><br 
+            <h3>SHOW Databases</h3><br /><br  
   </div>
  </body>       
 </html>
