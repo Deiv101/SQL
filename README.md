@@ -10,7 +10,7 @@
             <ol>
             <h3>SHOW Databases</h3><br /><br 
   </div>
- </body>      
+ </body>       
 </html>
 
 The SQL ***SHOW*** statement displays information contained in the database and its tables. 
